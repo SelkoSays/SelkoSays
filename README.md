@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SelkoSays
 - 👀 I’m interested in programing and 3D design
-- 🌱 I’m currently learning c++ and python
+- 🌱 I’m currently learning c++ and python and rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
